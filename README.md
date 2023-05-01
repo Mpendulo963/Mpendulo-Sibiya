@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I am Mpendulo Sibiya
 #### A data scientist content creator!
-I am a data analyst at NRF/SARAO Capetown. I have a Masters in Physics (astronomy), obtained at the University of Western Cape. While enjoying being a data analyst. I am also still trying to figure out what project to take for my PhD, so you can Hala and recruit me.
+I am a data analyst at NRF/SARAO Capetown. I have a Masters in Physics (astronomy), which I have obtained at the University of Western Cape. While enjoying being a data analyst I am also trying to figure out what project to take for my PhD, so you can 👋 and recruit me if you might be having something intresting to share.
 
 Skills: Python, Windows, Linux, Ubuntu, and macOS.
 
